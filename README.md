@@ -1,1 +1,1 @@
-Bu ödev Bilgisayar Ağları dersi (Dr. Ögr. Üyesi Hasan Serdar) için hazırlanmıştır.
+Bu ödev Bilgisayar Ağları dersi için hazırlanmıştır.
